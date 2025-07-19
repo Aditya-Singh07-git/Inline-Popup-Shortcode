@@ -1,3 +1,5 @@
+![Plugin Preview](assets/screenshot.png)
+
 # 🔲 Inline Popup Shortcode – WordPress Plugin
 
 A lightweight and easy-to-use WordPress plugin to display popup modals inline using a simple shortcode. Great for alerts, messages, forms, or any custom content – without the need for bulky page builders or bloated code.
