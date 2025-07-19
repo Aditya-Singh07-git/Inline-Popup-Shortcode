@@ -28,18 +28,22 @@ cd wp-content/plugins/
 git clone https://github.com/Aditya-Singh07-git/Inline-Popup-Shortcode.git
 ## 🧪 Usage
 
-### Basic Example
-To use the popup in a page or post, insert the following shortcode:
 
-```wordpress
-[inline_popup]
-<h3>Important Notice</h3>
-<p>This popup appears when the button is clicked!</p>
-[/inline_popup]
-👨‍💻 Author
-Aditya Singh
 
-GitHub: Aditya-Singh07-git
+✅ Plugin Status
+Stable & Functional – Built by Aditya Singh as an open-source contribution project.
+
+🤝 Contributing
+Pull requests and ideas are welcome.
+This plugin is open-source and built to demonstrate clean WordPress development practices.
+
+📄 License
+Licensed under the MIT License – free to use, modify, and distribute.
+
+🌟 Show Your Support
+If you find this plugin useful, please ⭐️ star the repo and share it with others!
+
+
 
 Portfolio-ready ✅
 
