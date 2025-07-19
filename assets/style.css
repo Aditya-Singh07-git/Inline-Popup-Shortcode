@@ -1,0 +1,4 @@
+.ips-popup-container { position: relative; display: inline-block; }
+.ips-popup { display: none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 20px; z-index: 999; }
+.ips-popup.active { display: block; }
+.ips-close { float: right; cursor: pointer; }
