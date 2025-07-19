@@ -47,5 +47,4 @@ If you find this plugin useful, please ⭐️ star the repo and share it with ot
 
 Portfolio-ready ✅
 
-📄 License
-This plugin is open-sourced under the MIT License.
+
